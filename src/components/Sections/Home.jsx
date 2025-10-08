@@ -18,13 +18,13 @@ const Home = ({ isDarkMode }) => {
         <p className={`text-xl md:text-2xl font-poppins mb-10 ${
           isDarkMode ? 'text-gray-300' : 'text-gray-700'
         }`}>
-          Software Engineer & AI/ML Developer
+         Full-Stack Software Engineer
         </p>
 
         <p className={`font-normal text-lg leading-7 text-center max-w-2xl mx-auto mb-8 ${
           isDarkMode ? 'text-gray-300' : 'text-gray-600'
         }`}>
-          Final-year Software Engineering student passionate about building intelligent full-stack applications. Experienced in React, FastAPI, and .NET with a strong focus on AI/ML using LangChain, LangGraph, and LLMs
+         Final-year Software Engineering student specializing in building modern, scalable web applications using the MERN stack. I create end-to-end solutions with clean code, intuitive user interfaces, and robust backend systems that solve real-world problems.
         </p>
 
         <div className={`flex flex-wrap justify-center gap-6 mb-8 text-[15px] md:text-[17px] font-normal ${

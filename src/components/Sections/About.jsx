@@ -32,14 +32,14 @@ const About = ({ isDarkMode }) => {
           <p className={`mt-3 text-[16px] font-[400] ${
             isDarkMode ? 'text-white' : 'text-gray-900'
           }`}>
-            B.Sc. in Software Engineering
+            BS in Computer Science
           </p>
           <p className={`mt-2 ${
             isDarkMode ? 'text-[#9CA3AF]' : 'text-gray-600'
           }`}>
             PUCIT Lahore
           </p>
-          <h2 className="mt-2 text-[#60A5FA] font-[600]">CGPA: 3.90/4.00</h2>
+          <h2 className="mt-2 text-[#60A5FA] font-[600]">CGPA: 3.0/4.00</h2>
         </div>
 
         <div className={`p-6 mb-5 md:mb-12 rounded-[8px] w-full ${
@@ -88,12 +88,12 @@ const About = ({ isDarkMode }) => {
               <span className={`font-[600] ${
                 isDarkMode ? 'text-[#D1D5DB]' : 'text-gray-900'
               }`}>
-                Machine Learning TA:{" "}
+                Freelance Web Development:{" "}
               </span>
               <span className={`${
                 isDarkMode ? 'text-gray-300' : 'text-gray-700'
               }`}>
-                Taught 50+ students, leading labs on CNNs, PyTorch, and YOLOv8.
+                 Built and deployed multiple full-stack web applications for clients using MERN stack.
               </span>
             </div>
           </div>
@@ -106,12 +106,12 @@ const About = ({ isDarkMode }) => {
               <span className={`font-[600] ${
                 isDarkMode ? 'text-[#D1D5DB]' : 'text-gray-900'
               }`}>
-                DSA Mentor:{" "}
+                Peer Mentoring:{" "}
               </span>
               <span className={`${
                 isDarkMode ? 'text-gray-300' : 'text-gray-700'
               }`}>
-                Solved 200+ LeetCode problems, conducted hands-on sessions with 50+ students.
+               Helped fellow students debug code, understand React concepts, and build their first full-stack applications.
               </span>
             </div>
           </div>
@@ -124,12 +124,12 @@ const About = ({ isDarkMode }) => {
               <span className={`font-[700] ${
                 isDarkMode ? 'text-[#D1D5DB]' : 'text-gray-900'
               }`}>
-                Event Management:{" "}
+                Open Source Contributions:{" "}
               </span>
               <span className={`${
                 isDarkMode ? 'text-gray-300' : 'text-gray-700'
               }`}>
-                Organized tech events with 100+ attendees.
+                Actively contributing to web development projects on GitHub, collaborating with developers worldwide.
               </span>
             </div>
           </div>

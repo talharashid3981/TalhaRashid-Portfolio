@@ -171,7 +171,6 @@ const Contact = ({ isDarkMode }) => {
               isDarkMode ? 'text-[#9CA3AF]' : 'text-gray-600'
             }`}>
               <li>• Software Engineering opportunities</li>
-              <li>• AI/ML development projects</li>
               <li>• Full-stack development roles</li>
               <li>• Open source collaborations</li>
             </ul>
