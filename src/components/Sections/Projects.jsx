@@ -10,8 +10,10 @@ const Projects = ({ isDarkMode }) => {
       details:
         "Responsive music streaming interface replicating Spotify's design with interactive player controls, playlist views, and smooth transitions.",
       tecUsed: ["HTML", "CSS", "JavaScript", "Responsive Design"],
-      sorceCode: "https://github.com/example/ai-code-lab",
+      sorceCode: "https://github.com/talharashid3981/Spotify-Clone",
       gitIcon: <FiGithub className="text-[18px]" />,
+       urlIcon: <FaExternalLinkAlt className="text-[16px]" />,
+      urlLink: "https://talharashid3981.github.io/Spotify-Clone/",
     },
     {
       tittle: "YouTube UI Clone",
@@ -34,8 +36,10 @@ const Projects = ({ isDarkMode }) => {
       details:
         "Complete frontend implementation of a flight booking platform featuring flight search with filters, interactive seat selection interface, multi-step booking process, and payment UI. Demonstrates React Hooks, state management, and modern UI/UX practices.",
       tecUsed: ["React.js", "React Hooks", "State Management", "Netlify"],
-      sorceCode: "https://github.com/example/edu-career-navigator",
+      sorceCode: "https://github.com/talharashid3981/FickleFlight-Project",
       gitIcon: <FiGithub className="text-[18px]" />,
+       urlIcon: <FaExternalLinkAlt className="text-[16px]" />,
+      urlLink: "https://fickle-flight-project-fkq5-omega.vercel.app/",
     },
     {
       tittle: "E-Commerce Store",
